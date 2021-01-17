@@ -1,3 +1,5 @@
+class Planet:
+    pass
 class Animal:
     def __init__(self):
         self.name="Animal"
