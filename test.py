@@ -1,5 +1,6 @@
 class Planet:
-    pass
+    print("Hi")
+
 class Animal:
     def __init__(self):
         self.name="Animal"
